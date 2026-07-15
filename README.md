@@ -41,7 +41,7 @@ This project creates a simple forecasting and inventory planning workflow to ans
 **notebooks/**
 - walmart_xgboost_inventory_project.ipynb
 
-**outputs/**
+**output//**
 - forecast_results.csv
 - model_metrics.csv
 - inventory_planning.csv
